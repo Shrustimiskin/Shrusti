@@ -1,0 +1,2 @@
+# Shrusti
+linux commands assignment
