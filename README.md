@@ -1,2 +1,0 @@
-# Shrusti
-Linux Programming Assignment
