@@ -1,2 +1,2 @@
 # Shrusti
-linux commands assignment
+Linux Programming Assignment
